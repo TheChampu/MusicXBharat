@@ -7,6 +7,10 @@ from TeamXBharat.misc import dbb, heroku
 from SafoneAPI import SafoneAPI
 from .logging import LOGGER
 
+PH_ON = ["https://telegra.ph/file/5aaaa79874736121c8be4.jpg", 
+         "https://telegra.ph/file/82410ce77aec3b18eef21.jpg", 
+         "https://telegra.ph/file/d6701bf3e1e84833e49c9.jpg", 
+         "https://telegra.ph/file/ab8363098643a813743b5.jpg",]
 
 GB = ["https://telegra.ph/file/1885e904e8617e8a027c7.mp4"]
 
