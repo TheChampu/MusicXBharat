@@ -61,6 +61,10 @@ async def gib_repo(client, CallbackQuery, _):
                     InlineKeyboardButton(
                         text="ᴏᴡɴᴇʀ", url="https://t.me/TheChampu"
                     ),
+                    
+                    InlineKeyboardButton(
+                        text="ʀᴇᴘᴏ", url="https://github.com/TheChampu/MusicXBharat"
+                    )
                 ],
                 [
                     InlineKeyboardButton(
