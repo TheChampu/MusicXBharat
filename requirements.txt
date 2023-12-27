@@ -15,7 +15,7 @@ pycountry
 heroku3
 apscheduler
 motor==3.3.2
-pillow==10.1.0
+pillow==9.5.0
 psutil
 wget
 pyfiglet
@@ -23,7 +23,7 @@ qrcode
 pytz
 future==0.18.3
 search_engine_parser
-py-tgcalls==1.0.9
+py-tgcalls==0.9.7
 pykeyboard
 pyshorteners
 pyrogram==2.0.106
@@ -40,8 +40,8 @@ yt-dlp==2023.11.16
 youtube-search
 youtube-search-python
 gtts
-git+https://github.com/AsmSafone/SafoneAPI
-lexica-api==1.5.0
-httpx==0.26.0
+git+https://github.com/ChampuXD/SafoneAPI
+lexica-api==1.4.7
+httpx==0.25.2
 gpytranslate
-openai==1.6.1
+openai==0.28.0
