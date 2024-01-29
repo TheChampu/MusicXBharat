@@ -1,6 +1,6 @@
 aiofiles
 bard
-aiohttp==3.9.1
+aiohttp==3.9.2
 asyncio==3.4.3
 beautifulsoup4
 blackpink
